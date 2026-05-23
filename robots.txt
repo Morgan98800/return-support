@@ -5,4 +5,4 @@ Allow: /
 # For example, if you host on a custom domain, use: https://yourdomain.com/sitemap.xml
 # If hosted on GitHub Pages user site: https://username.github.io/sitemap.xml
 # If hosted on GitHub Pages project site: https://username.github.io/return-website/sitemap.xml
-Sitemap: https://username.github.io/sitemap.xml
+Sitemap: https://morgan98800.github.io/return-support/sitemap.xml
