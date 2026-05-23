@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# TODO: Replace the sitemap URL below with your actual live production URL before submitting to search consoles.
+# For example, if you host on a custom domain, use: https://yourdomain.com/sitemap.xml
+# If hosted on GitHub Pages user site: https://username.github.io/sitemap.xml
+# If hosted on GitHub Pages project site: https://username.github.io/return-website/sitemap.xml
+Sitemap: https://username.github.io/sitemap.xml

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 
+    TODO: Replace "https://username.github.io/return-website" with your actual production domain URL before publishing.
+    For example:
+    - If using a custom domain: https://yourdomain.com/
+    - If using a user site: https://username.github.io/
+    - If using a project site: https://username.github.io/return-website/
+  -->
+  <url>
+    <loc>https://username.github.io/return-website/</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://username.github.io/return-website/support/</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://username.github.io/return-website/privacy/</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
